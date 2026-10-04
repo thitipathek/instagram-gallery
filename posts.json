@@ -709,9 +709,11 @@
     "summary": "Explains using EMA and VWAP with RSI confirmation for an intraday trading approach.",
     "likes": 632,
     "source": "explore",
-    "image": null,
+    "image": "images/hq/Ddz8PPVTrsQ-1.webp",
     "posted_at": "2026-09-27",
-    "slides": null
+    "slides": [
+      "images/hq/Ddz8PPVTrsQ-1.webp"
+    ]
   },
   {
     "handle": "mertfutures",
