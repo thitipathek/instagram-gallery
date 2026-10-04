@@ -7,7 +7,10 @@
     "likes": 16600,
     "source": "explore-search",
     "image": "images/hq/DbZEw7SqfAO-ytdlp.mp4",
-    "posted_at": "2026-07-29"
+    "posted_at": "2026-07-29",
+    "slides": [
+      "images/hq/DbZEw7SqfAO-ytdlp.mp4"
+    ]
   },
   {
     "handle": "protradingmarket",
@@ -17,7 +20,10 @@
     "likes": 8,
     "source": "explore-search",
     "image": "images/hq/DcBHjaeiuY3.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DcBHjaeiuY3.jpg"
+    ]
   },
   {
     "handle": "naddufx1122",
@@ -27,7 +33,10 @@
     "likes": 8500,
     "source": "explore-search",
     "image": "images/hq/DXqdmd1iMKE.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DXqdmd1iMKE.jpg"
+    ]
   },
   {
     "handle": "skylinetradersclub",
@@ -37,7 +46,10 @@
     "likes": 6100,
     "source": "explore-search",
     "image": "images/hq/Dc4JFIht3j6.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dc4JFIht3j6.jpg"
+    ]
   },
   {
     "handle": "rory.trades",
@@ -47,7 +59,10 @@
     "likes": 3200,
     "source": "explore-search",
     "image": "images/hq/DZBNobmJrUe-ytdlp.mp4",
-    "posted_at": "2026-05-31"
+    "posted_at": "2026-05-31",
+    "slides": [
+      "images/hq/DZBNobmJrUe-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tsugitrades",
@@ -57,7 +72,10 @@
     "likes": 7100,
     "source": "explore-search",
     "image": "images/hq/DYz_eeWvpjL.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DYz_eeWvpjL.jpg"
+    ]
   },
   {
     "handle": "kitakafx",
@@ -67,7 +85,10 @@
     "likes": 4700,
     "source": "explore-search",
     "image": "images/hq/DczAC9aoCc1.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DczAC9aoCc1.jpg"
+    ]
   },
   {
     "handle": "chart.logic",
@@ -77,7 +98,10 @@
     "likes": 5,
     "source": "explore-search",
     "image": "images/hq/DchsqfspsYz.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DchsqfspsYz.jpg"
+    ]
   },
   {
     "handle": "nexural.io",
@@ -87,7 +111,10 @@
     "likes": 6200,
     "source": "explore",
     "image": "images/hq/Da6RJeNAEq4-ytdlp.mp4",
-    "posted_at": "2026-07-17"
+    "posted_at": "2026-07-17",
+    "slides": [
+      "images/hq/Da6RJeNAEq4-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tradelikeosman",
@@ -97,7 +124,10 @@
     "likes": 22600,
     "source": "explore",
     "image": "images/hq/DceriDAxgrw-ytdlp.mp4",
-    "posted_at": "2026-08-25"
+    "posted_at": "2026-08-25",
+    "slides": [
+      "images/hq/DceriDAxgrw-ytdlp.mp4"
+    ]
   },
   {
     "handle": "niccofx",
@@ -106,8 +136,15 @@
     "summary": "The small-account trap: why a $100 account feels impossible.",
     "likes": 61,
     "source": "explore",
-    "image": "images/hq/DeCOo_EEhh_.jpg",
-    "posted_at": null
+    "image": "images/hq/DeCOo_EEhh_-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/DeCOo_EEhh_-1.jpg",
+      "images/hq/DeCOo_EEhh_-2.jpg",
+      "images/hq/DeCOo_EEhh_-3.jpg",
+      "images/hq/DeCOo_EEhh_-4.jpg",
+      "images/hq/DeCOo_EEhh_-5.jpg"
+    ]
   },
   {
     "handle": "humza_trades",
@@ -117,7 +154,10 @@
     "likes": 6500,
     "source": "explore",
     "image": "images/hq/DdW65bkqQdu-ytdlp.mp4",
-    "posted_at": "2026-09-16"
+    "posted_at": "2026-09-16",
+    "slides": [
+      "images/hq/DdW65bkqQdu-ytdlp.mp4"
+    ]
   },
   {
     "handle": "niccofx",
@@ -126,8 +166,15 @@
     "summary": "Fantasy versus the boring routine of a profitable trader.",
     "likes": 370,
     "source": "explore",
-    "image": "images/hq/niccofx-Dd6bcFHEqU_.jpg",
-    "posted_at": null
+    "image": "images/hq/Dd6bcFHEqU_-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dd6bcFHEqU_-1.jpg",
+      "images/hq/Dd6bcFHEqU_-2.jpg",
+      "images/hq/Dd6bcFHEqU_-3.jpg",
+      "images/hq/Dd6bcFHEqU_-4.jpg",
+      "images/hq/Dd6bcFHEqU_-5.jpg"
+    ]
   },
   {
     "handle": "airforexone",
@@ -137,7 +184,10 @@
     "likes": 3500,
     "source": "explore",
     "image": "images/hq/DdyeTwJIJ-l.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DdyeTwJIJ-l.jpg"
+    ]
   },
   {
     "handle": "forex.with.rajputt",
@@ -147,7 +197,10 @@
     "likes": 16000,
     "source": "explore",
     "image": "images/hq/DcadaUGuyw2-ytdlp.mp4",
-    "posted_at": "2026-08-24"
+    "posted_at": "2026-08-24",
+    "slides": [
+      "images/hq/DcadaUGuyw2-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tradelikeosman",
@@ -157,7 +210,10 @@
     "likes": 2800,
     "source": "explore",
     "image": "images/hq/DdzrhlyOQd--ytdlp.mp4",
-    "posted_at": "2026-09-27"
+    "posted_at": "2026-09-27",
+    "slides": [
+      "images/hq/DdzrhlyOQd--ytdlp.mp4"
+    ]
   },
   {
     "handle": "mehwish31826",
@@ -167,7 +223,10 @@
     "likes": 8200,
     "source": "explore",
     "image": "images/hq/DbSIu55qBSb-ytdlp.mp4",
-    "posted_at": "2026-07-27"
+    "posted_at": "2026-07-27",
+    "slides": [
+      "images/hq/DbSIu55qBSb-ytdlp.mp4"
+    ]
   },
   {
     "handle": "dekoda.trades",
@@ -177,7 +236,10 @@
     "likes": 2100,
     "source": "explore",
     "image": "images/hq/Ddt1_4FRRor-ytdlp.mp4",
-    "posted_at": "2026-09-25"
+    "posted_at": "2026-09-25",
+    "slides": [
+      "images/hq/Ddt1_4FRRor-ytdlp.mp4"
+    ]
   },
   {
     "handle": "khatera_markets",
@@ -187,7 +249,10 @@
     "likes": 5200,
     "source": "explore",
     "image": "images/hq/DdHR5VfBfPc-ytdlp.mp4",
-    "posted_at": "2026-09-10"
+    "posted_at": "2026-09-10",
+    "slides": [
+      "images/hq/DdHR5VfBfPc-ytdlp.mp4"
+    ]
   },
   {
     "handle": "fx.wota",
@@ -196,8 +261,16 @@
     "summary": "XAUUSD x Me | 👁️‍🗨️",
     "likes": 3700,
     "source": "explore",
-    "image": "images/hq/Ddv6mkCGA6k.jpg",
-    "posted_at": null
+    "image": "images/hq/Ddv6mkCGA6k-1.webp",
+    "posted_at": null,
+    "slides": [
+      "images/hq/Ddv6mkCGA6k-1.webp",
+      "images/hq/Ddv6mkCGA6k-2.webp",
+      "images/hq/Ddv6mkCGA6k-3.webp",
+      "images/hq/Ddv6mkCGA6k-4.webp",
+      "images/hq/Ddv6mkCGA6k-5.webp",
+      "images/hq/Ddv6mkCGA6k-6.webp"
+    ]
   },
   {
     "handle": "finanzkroko",
@@ -207,7 +280,10 @@
     "likes": 1300,
     "source": "explore",
     "image": "images/hq/Dd-1u4vCZhL.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dd-1u4vCZhL.jpg"
+    ]
   },
   {
     "handle": "tycoontraders_in",
@@ -216,8 +292,16 @@
     "summary": "Initial Balance is not a breakout signal. It’s a reference point that helps you read the developing auction and day structure. Learn Market Profile & the complete Tycoon Trading System in a structured way from a professional trader.",
     "likes": 281,
     "source": "explore",
-    "image": "images/hq/DdteKJNGlO2.jpg",
-    "posted_at": null
+    "image": "images/hq/DdteKJNGlO2-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/DdteKJNGlO2-1.jpg",
+      "images/hq/DdteKJNGlO2-2.jpg",
+      "images/hq/DdteKJNGlO2-3.jpg",
+      "images/hq/DdteKJNGlO2-4.jpg",
+      "images/hq/DdteKJNGlO2-5.jpg",
+      "images/hq/DdteKJNGlO2-6.jpg"
+    ]
   },
   {
     "handle": "finshala.with.priya",
@@ -227,7 +311,10 @@
     "likes": 2900,
     "source": "explore",
     "image": "images/hq/DcLJL8oK7wr-ytdlp.mp4",
-    "posted_at": "2026-08-18"
+    "posted_at": "2026-08-18",
+    "slides": [
+      "images/hq/DcLJL8oK7wr-ytdlp.mp4"
+    ]
   },
   {
     "handle": "profitprotrading",
@@ -237,7 +324,10 @@
     "likes": 694,
     "source": "explore",
     "image": "images/hq/DdwIDdUguvH-ytdlp.mp4",
-    "posted_at": "2026-09-26"
+    "posted_at": "2026-09-26",
+    "slides": [
+      "images/hq/DdwIDdUguvH-ytdlp.mp4"
+    ]
   },
   {
     "handle": "rahul_fx_trader28",
@@ -247,7 +337,10 @@
     "likes": 10400,
     "source": "explore",
     "image": "images/hq/DdFgMZlTvJ8-ytdlp.mp4",
-    "posted_at": "2026-09-10"
+    "posted_at": "2026-09-10",
+    "slides": [
+      "images/hq/DdFgMZlTvJ8-ytdlp.mp4"
+    ]
   },
   {
     "handle": "gamma.tradez",
@@ -257,7 +350,10 @@
     "likes": 5500,
     "source": "explore",
     "image": "images/hq/DduU-R5IRMR-ytdlp.mp4",
-    "posted_at": "2026-09-25"
+    "posted_at": "2026-09-25",
+    "slides": [
+      "images/hq/DduU-R5IRMR-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tempoict",
@@ -267,7 +363,10 @@
     "likes": 271,
     "source": "explore",
     "image": "images/hq/Dd63Sn6Jq01-ytdlp.mp4",
-    "posted_at": "2026-09-30"
+    "posted_at": "2026-09-30",
+    "slides": [
+      "images/hq/Dd63Sn6Jq01-ytdlp.mp4"
+    ]
   },
   {
     "handle": "krutoey_queenmidas",
@@ -276,8 +375,19 @@
     "summary": "ทำไมคนที่ทำสมาธิสม่ำเสมอ ตัดสินใจเรื่องสำคัญได้ดีกว่า",
     "likes": 647,
     "source": "explore",
-    "image": "images/hq/DdVQl0xkwMu.jpg",
-    "posted_at": null
+    "image": "images/hq/DdVQl0xkwMu-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/DdVQl0xkwMu-1.jpg",
+      "images/hq/DdVQl0xkwMu-2.jpg",
+      "images/hq/DdVQl0xkwMu-3.jpg",
+      "images/hq/DdVQl0xkwMu-4.jpg",
+      "images/hq/DdVQl0xkwMu-5.jpg",
+      "images/hq/DdVQl0xkwMu-6.jpg",
+      "images/hq/DdVQl0xkwMu-7.jpg",
+      "images/hq/DdVQl0xkwMu-8.jpg",
+      "images/hq/DdVQl0xkwMu-9.jpg"
+    ]
   },
   {
     "handle": "smart.forexpips",
@@ -287,7 +397,10 @@
     "likes": 8600,
     "source": "explore",
     "image": "images/hq/Dd59q7BjVNp-ytdlp.mp4",
-    "posted_at": "2026-09-30"
+    "posted_at": "2026-09-30",
+    "slides": [
+      "images/hq/Dd59q7BjVNp-ytdlp.mp4"
+    ]
   },
   {
     "handle": "finshala.with.priya",
@@ -297,7 +410,10 @@
     "likes": 1100,
     "source": "explore",
     "image": "images/hq/Dd55gs_xJ7e-ytdlp.mp4",
-    "posted_at": "2026-09-30"
+    "posted_at": "2026-09-30",
+    "slides": [
+      "images/hq/Dd55gs_xJ7e-ytdlp.mp4"
+    ]
   },
   {
     "handle": "kasen.nq",
@@ -307,7 +423,10 @@
     "likes": 1200,
     "source": "explore",
     "image": "images/hq/Dd4TkrKMLms-ytdlp.mp4",
-    "posted_at": "2026-09-29"
+    "posted_at": "2026-09-29",
+    "slides": [
+      "images/hq/Dd4TkrKMLms-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tycoontraders_in",
@@ -316,8 +435,17 @@
     "summary": "Absorption is not control....",
     "likes": 676,
     "source": "explore",
-    "image": "images/hq/Dd6QaMDGqUI.jpg",
-    "posted_at": null
+    "image": "images/hq/Dd6QaMDGqUI-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dd6QaMDGqUI-1.jpg",
+      "images/hq/Dd6QaMDGqUI-2.jpg",
+      "images/hq/Dd6QaMDGqUI-3.jpg",
+      "images/hq/Dd6QaMDGqUI-4.jpg",
+      "images/hq/Dd6QaMDGqUI-5.jpg",
+      "images/hq/Dd6QaMDGqUI-6.jpg",
+      "images/hq/Dd6QaMDGqUI-7.jpg"
+    ]
   },
   {
     "handle": "davidarias_cfa",
@@ -327,7 +455,10 @@
     "likes": 5100,
     "source": "explore",
     "image": "images/hq/DbYOQlSFJSZ-ytdlp.mp4",
-    "posted_at": "2026-07-29"
+    "posted_at": "2026-07-29",
+    "slides": [
+      "images/hq/DbYOQlSFJSZ-ytdlp.mp4"
+    ]
   },
   {
     "handle": "binancemena",
@@ -337,7 +468,10 @@
     "likes": 7900,
     "source": "explore",
     "image": "images/hq/DdfyM0TF8oB.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/DdfyM0TF8oB.jpg"
+    ]
   },
   {
     "handle": "market_reapers.1",
@@ -346,8 +480,13 @@
     "summary": "EURUSD (30/9/26). Most traders close because they're scared of giving back profit. But the market doesn't care about your P&L. Your exit should come from price action not emotion.",
     "likes": 1,
     "source": "explore",
-    "image": "images/hq/DeC3fvnEsIE.jpg",
-    "posted_at": null
+    "image": "images/hq/DeC3fvnEsIE-1.webp",
+    "posted_at": null,
+    "slides": [
+      "images/hq/DeC3fvnEsIE-1.webp",
+      "images/hq/DeC3fvnEsIE-2.webp",
+      "images/hq/DeC3fvnEsIE-3.webp"
+    ]
   },
   {
     "handle": "lauunq",
@@ -357,7 +496,10 @@
     "likes": 30300,
     "source": "explore",
     "image": "images/hq/Dd4YygtpCaI-ytdlp.mp4",
-    "posted_at": "2026-09-29"
+    "posted_at": "2026-09-29",
+    "slides": [
+      "images/hq/Dd4YygtpCaI-ytdlp.mp4"
+    ]
   },
   {
     "handle": "andreacimi.trading",
@@ -367,7 +509,10 @@
     "likes": 3000,
     "source": "explore",
     "image": "images/hq/DeB_2EcNQCc-ytdlp.mp4",
-    "posted_at": "2026-10-03"
+    "posted_at": "2026-10-03",
+    "slides": [
+      "images/hq/DeB_2EcNQCc-ytdlp.mp4"
+    ]
   },
   {
     "handle": "leviathan.xau",
@@ -377,7 +522,10 @@
     "likes": 4000,
     "source": "explore",
     "image": "images/hq/Dd3CymMtT0h-ytdlp.mp4",
-    "posted_at": "2026-09-29"
+    "posted_at": "2026-09-29",
+    "slides": [
+      "images/hq/Dd3CymMtT0h-ytdlp.mp4"
+    ]
   },
   {
     "handle": "prang.yieldliving",
@@ -387,7 +535,10 @@
     "likes": 3,
     "source": "explore",
     "image": "images/hq/DddTlaPTJ24-ytdlp.mp4",
-    "posted_at": "2026-09-19"
+    "posted_at": "2026-09-19",
+    "slides": [
+      "images/hq/DddTlaPTJ24-ytdlp.mp4"
+    ]
   },
   {
     "handle": "premium_piips",
@@ -396,8 +547,17 @@
     "summary": "Fibonachi",
     "likes": 367,
     "source": "explore",
-    "image": "images/hq/Dd8o6kVCqVT.jpg",
-    "posted_at": null
+    "image": "images/hq/Dd8o6kVCqVT-1.jpg",
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dd8o6kVCqVT-1.jpg",
+      "images/hq/Dd8o6kVCqVT-2.jpg",
+      "images/hq/Dd8o6kVCqVT-3.jpg",
+      "images/hq/Dd8o6kVCqVT-4.jpg",
+      "images/hq/Dd8o6kVCqVT-5.jpg",
+      "images/hq/Dd8o6kVCqVT-6.jpg",
+      "images/hq/Dd8o6kVCqVT-7.jpg"
+    ]
   },
   {
     "handle": "zentradesnq",
@@ -407,7 +567,10 @@
     "likes": 637,
     "source": "explore",
     "image": "images/hq/DdxUPfRtcbc-ytdlp.mp4",
-    "posted_at": "2026-09-27"
+    "posted_at": "2026-09-27",
+    "slides": [
+      "images/hq/DdxUPfRtcbc-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tradevision010",
@@ -417,7 +580,10 @@
     "likes": 10300,
     "source": "explore",
     "image": "images/hq/DcGT4thoQvo-ytdlp.mp4",
-    "posted_at": "2026-08-16"
+    "posted_at": "2026-08-16",
+    "slides": [
+      "images/hq/DcGT4thoQvo-ytdlp.mp4"
+    ]
   },
   {
     "handle": "___ict_",
@@ -427,7 +593,10 @@
     "likes": 5500,
     "source": "explore",
     "image": "images/hq/DdbqtxoN8Lj-ytdlp.mp4",
-    "posted_at": "2026-09-18"
+    "posted_at": "2026-09-18",
+    "slides": [
+      "images/hq/DdbqtxoN8Lj-ytdlp.mp4"
+    ]
   },
   {
     "handle": "marketpedia__real",
@@ -437,7 +606,10 @@
     "likes": 1200,
     "source": "explore",
     "image": "images/hq/DdsxhBIB1_9-ytdlp.mp4",
-    "posted_at": "2026-09-25"
+    "posted_at": "2026-09-25",
+    "slides": [
+      "images/hq/DdsxhBIB1_9-ytdlp.mp4"
+    ]
   },
   {
     "handle": "liberator_securities",
@@ -447,7 +619,10 @@
     "likes": null,
     "source": "explore",
     "image": "images/hq/DautuzDjxQi-ytdlp.mp4",
-    "posted_at": "2026-07-13"
+    "posted_at": "2026-07-13",
+    "slides": [
+      "images/hq/DautuzDjxQi-ytdlp.mp4"
+    ]
   },
   {
     "handle": "missyou._90",
@@ -457,7 +632,10 @@
     "likes": 97800,
     "source": "explore",
     "image": "images/hq/Ddd72ZesNPZ.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/Ddd72ZesNPZ.jpg"
+    ]
   },
   {
     "handle": "josh_zitman",
@@ -467,7 +645,10 @@
     "likes": 107000,
     "source": "explore",
     "image": "images/hq/DZG_sYZByzI-ytdlp.mp4",
-    "posted_at": "2026-06-03"
+    "posted_at": "2026-06-03",
+    "slides": [
+      "images/hq/DZG_sYZByzI-ytdlp.mp4"
+    ]
   },
   {
     "handle": "race_charts",
@@ -477,7 +658,10 @@
     "likes": 303,
     "source": "explore",
     "image": "images/hq/DeADk_7sbtV-ytdlp.mp4",
-    "posted_at": "2026-10-02"
+    "posted_at": "2026-10-02",
+    "slides": [
+      "images/hq/DeADk_7sbtV-ytdlp.mp4"
+    ]
   },
   {
     "handle": "jeffreyinvestwealth",
@@ -487,7 +671,10 @@
     "likes": 4911,
     "source": "explore",
     "image": "images/hq/Dd_DgjKJ88d.jpg",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/Dd_DgjKJ88d.jpg"
+    ]
   },
   {
     "handle": "manisha.fx",
@@ -497,7 +684,10 @@
     "likes": null,
     "source": "explore",
     "image": "images/hq/Ddp706Rtbk9.webp",
-    "posted_at": null
+    "posted_at": null,
+    "slides": [
+      "images/hq/Ddp706Rtbk9.webp"
+    ]
   },
   {
     "handle": "bbtradezz_",
@@ -507,7 +697,10 @@
     "likes": 27900,
     "source": "explore",
     "image": "images/hq/DdKp8ywKzuF-ytdlp.mp4",
-    "posted_at": "2026-09-12"
+    "posted_at": "2026-09-12",
+    "slides": [
+      "images/hq/DdKp8ywKzuF-ytdlp.mp4"
+    ]
   },
   {
     "handle": "investalogy.in",
@@ -517,7 +710,8 @@
     "likes": 632,
     "source": "explore",
     "image": null,
-    "posted_at": "2026-09-27"
+    "posted_at": "2026-09-27",
+    "slides": null
   },
   {
     "handle": "mertfutures",
@@ -527,7 +721,10 @@
     "likes": 2198,
     "source": "explore",
     "image": "images/hq/DcRXsE2NZHf-ytdlp.mp4",
-    "posted_at": "2026-08-20"
+    "posted_at": "2026-08-20",
+    "slides": [
+      "images/hq/DcRXsE2NZHf-ytdlp.mp4"
+    ]
   },
   {
     "handle": "crypto_sr_",
@@ -537,7 +734,10 @@
     "likes": 8253,
     "source": "explore",
     "image": "images/hq/DcD63_yIPvt-ytdlp.mp4",
-    "posted_at": "2026-08-15"
+    "posted_at": "2026-08-15",
+    "slides": [
+      "images/hq/DcD63_yIPvt-ytdlp.mp4"
+    ]
   },
   {
     "handle": "shuhratov_fx",
@@ -547,7 +747,10 @@
     "likes": 19600,
     "source": "explore",
     "image": "images/hq/DalQJEptBTg-ytdlp.mp4",
-    "posted_at": "2026-07-09"
+    "posted_at": "2026-07-09",
+    "slides": [
+      "images/hq/DalQJEptBTg-ytdlp.mp4"
+    ]
   },
   {
     "handle": "tycoontraders_in",
@@ -556,7 +759,15 @@
     "summary": "Introduces Market Profile concepts including VWAP, POC, TPO, auction theory, order flow, volume, and price action.",
     "likes": 915,
     "source": "explore",
-    "image": null,
-    "posted_at": "2026-09-29"
+    "image": "images/hq/Dd3rpBdGqE7-1.jpg",
+    "posted_at": "2026-09-29",
+    "slides": [
+      "images/hq/Dd3rpBdGqE7-1.jpg",
+      "images/hq/Dd3rpBdGqE7-2.jpg",
+      "images/hq/Dd3rpBdGqE7-3.jpg",
+      "images/hq/Dd3rpBdGqE7-4.jpg",
+      "images/hq/Dd3rpBdGqE7-5.jpg",
+      "images/hq/Dd3rpBdGqE7-6.jpg"
+    ]
   }
 ]
