@@ -849,5 +849,60 @@
     "slides": [
       "images/hq/DcKlZgnMFMl-ytdlp.mp4"
     ]
+  },
+  {
+    "handle": "nexural.io",
+    "url": "https://www.instagram.com/p/Ddeyu5fnUHB/",
+    "topic": "trading",
+    "summary": "Educational carousel explaining why VWAP and the volume-profile POC can disagree, and what to match before comparing them.",
+    "likes": 1927,
+    "source": "explore",
+    "image": "images/hq/Ddeyu5fnUHB-1.jpg",
+    "posted_at": "2026-09-20",
+    "slides": [
+      "images/hq/Ddeyu5fnUHB-1.jpg",
+      "images/hq/Ddeyu5fnUHB-2.jpg",
+      "images/hq/Ddeyu5fnUHB-3.jpg",
+      "images/hq/Ddeyu5fnUHB-4.jpg",
+      "images/hq/Ddeyu5fnUHB-5.jpg",
+      "images/hq/Ddeyu5fnUHB-6.jpg"
+    ]
+  },
+  {
+    "handle": "ictkesik",
+    "url": "https://www.instagram.com/reel/Dd_2QmTySXR/",
+    "topic": "trading",
+    "summary": "Day-trading reel showing a +3R winning short trade, captioned 'Trader makes $47K in one trade', promoting live trade streams.",
+    "likes": 2972,
+    "source": "explore",
+    "image": "images/hq/Dd_2QmTySXR-ytdlp.mp4",
+    "posted_at": "2026-10-02",
+    "slides": [
+      "images/hq/Dd_2QmTySXR-ytdlp.mp4"
+    ]
+  },
+  {
+    "handle": "xkiarni",
+    "url": "https://www.instagram.com/reel/DduKn6sSmo7/",
+    "topic": "trading",
+    "summary": "NAS100 1-minute chart reel of a short trade making about +$3,070, with a caption inviting viewers to join a free trading group.",
+    "likes": 5871,
+    "source": "explore",
+    "image": "images/hq/DduKn6sSmo7-ytdlp.mp4",
+    "posted_at": "2026-09-26",
+    "slides": [
+      "images/hq/DduKn6sSmo7-ytdlp.mp4"
+    ]
+  },
+  {
+    "handle": "smartmoney_insights",
+    "url": "https://www.instagram.com/p/Dd6U-I0NRa1/",
+    "topic": "trading",
+    "summary": "EURUSD 1-hour trade breakdown: a buy-side liquidity sweep and Turtle Soup setup into a daily fair value gap, ending in a 5R short.",
+    "likes": 940,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-09-30",
+    "slides": null
   }
 ]
