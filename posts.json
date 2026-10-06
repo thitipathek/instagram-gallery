@@ -995,5 +995,73 @@
       "images/hq/DdhJggvEwki-4.jpg",
       "images/hq/DdhJggvEwki-5.jpg"
     ]
+  },
+  {
+    "handle": "ictwithmaria",
+    "url": "https://www.instagram.com/p/Dd9OpkvKaGo/",
+    "topic": "trading",
+    "summary": "Walks through a GBPUSD M30 setup with confirmations and points viewers to free and VIP groups for the full trade details.",
+    "likes": 575,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-10-01",
+    "slides": null
+  },
+  {
+    "handle": "julianmerrow",
+    "url": "https://www.instagram.com/p/DduRi7So_TK/",
+    "topic": "trading",
+    "summary": "Shows how to catch professional trader entries using volume trading and smart-money concepts.",
+    "likes": 11900,
+    "source": "explore",
+    "image": "images/hq/DduRi7So_TK-ytdlp.mp4",
+    "posted_at": "2026-09-26",
+    "slides": [
+      "images/hq/DduRi7So_TK-ytdlp.mp4"
+    ]
+  },
+  {
+    "handle": "tradefinx",
+    "url": "https://www.instagram.com/p/Dd_39S_IYhx/",
+    "topic": "trading",
+    "summary": "Explains a distribution pattern as a sign of a potential trend reversal and how to spot bearish breakouts.",
+    "likes": 1100,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-10-02",
+    "slides": null
+  },
+  {
+    "handle": "airforexone",
+    "url": "https://www.instagram.com/p/DeHpgPYuStp/",
+    "topic": "trading",
+    "summary": "Short forex reel about the speed of momentum.",
+    "likes": 136,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-10-05",
+    "slides": null
+  },
+  {
+    "handle": "bacscalping",
+    "url": "https://www.instagram.com/p/Ddl96NfTfzu/",
+    "topic": "trading",
+    "summary": "Promotes an indicator claimed to win 80% of the time on XAU and BTC.",
+    "likes": 727,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-09-22",
+    "slides": null
+  },
+  {
+    "handle": "nexural.io",
+    "url": "https://www.instagram.com/p/DdtfaBMoPgH/",
+    "topic": "trading",
+    "summary": "Educational chart post on profile shapes, telling traders to separate what is visible from what is inferred.",
+    "likes": 845,
+    "source": "explore",
+    "image": null,
+    "posted_at": "2026-09-25",
+    "slides": null
   }
 ]
