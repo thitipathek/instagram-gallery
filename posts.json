@@ -1334,5 +1334,85 @@
       "images/hq/Dd-d9X0iUC7-15.jpg",
       "images/hq/Dd-d9X0iUC7-16.jpg"
     ]
+  },
+  {
+    "handle": "some_icy_tea",
+    "url": "https://www.instagram.com/p/Dd68IF7NLVK/",
+    "topic": "trading",
+    "summary": "A 2-minute EURUSD London-session trade using ICT concepts: price consolidates, gets pushed up into a higher-timeframe fair value gap, then drops, giving a Turtle Soup and fair value gap entry.",
+    "likes": 3900,
+    "source": "explore",
+    "image": "images/hq/Dd68IF7NLVK-1.webp",
+    "posted_at": "2026-09-30",
+    "slides": [
+      "images/hq/Dd68IF7NLVK-1.webp"
+    ]
+  },
+  {
+    "handle": "some_cozy_trades",
+    "url": "https://www.instagram.com/p/DeJ9J8tN0Fb/",
+    "topic": "trading",
+    "summary": "A GBP/USD breaker-block trade setup using ICT concepts.",
+    "likes": 249,
+    "source": "explore",
+    "image": "images/hq/DeJ9J8tN0Fb-1.webp",
+    "posted_at": "2026-10-06",
+    "slides": [
+      "images/hq/DeJ9J8tN0Fb-1.webp"
+    ]
+  },
+  {
+    "handle": "jeffreyinvestwealth",
+    "url": "https://www.instagram.com/p/DeDnmapElZO/",
+    "topic": "mindset",
+    "summary": "A 24-year-old full-time trader says success came from discipline, a system and risk management, not from winning every trade, and stresses lasting in the market long term.",
+    "likes": 941,
+    "source": "explore",
+    "image": "images/hq/DeDnmapElZO-1.jpg",
+    "posted_at": "2026-10-04",
+    "slides": [
+      "images/hq/DeDnmapElZO-1.jpg",
+      "images/hq/DeDnmapElZO-2.jpg",
+      "images/hq/DeDnmapElZO-3.jpg",
+      "images/hq/DeDnmapElZO-4.jpg",
+      "images/hq/DeDnmapElZO-5.jpg",
+      "images/hq/DeDnmapElZO-6.jpg"
+    ]
+  },
+  {
+    "handle": "tarctary",
+    "url": "https://www.instagram.com/p/DdcFfL2kirb/",
+    "topic": "trading",
+    "summary": "A Thai beginner's guide to forex basics (pair, long/short, pip, lot, leverage) that stresses planning before every order.",
+    "likes": 81,
+    "source": "explore",
+    "image": "images/hq/DdcFfL2kirb-1.jpg",
+    "posted_at": "2026-09-19",
+    "slides": [
+      "images/hq/DdcFfL2kirb-1.jpg",
+      "images/hq/DdcFfL2kirb-2.jpg",
+      "images/hq/DdcFfL2kirb-3.jpg",
+      "images/hq/DdcFfL2kirb-4.jpg",
+      "images/hq/DdcFfL2kirb-5.jpg",
+      "images/hq/DdcFfL2kirb-6.jpg",
+      "images/hq/DdcFfL2kirb-7.jpg",
+      "images/hq/DdcFfL2kirb-8.jpg",
+      "images/hq/DdcFfL2kirb-9.jpg",
+      "images/hq/DdcFfL2kirb-10.jpg"
+    ]
+  },
+  {
+    "handle": "smart_moneygers",
+    "url": "https://www.instagram.com/p/Dd4LR-_E-sY/",
+    "topic": "trading",
+    "summary": "A 1-hour GBPUSD breakdown: price sweeps the range high, reverses with a Turtle Soup and a Model-1 confirmation, then falls to the range low.",
+    "likes": 391,
+    "source": "explore",
+    "image": "images/hq/Dd4LR-_E-sY-1.jpg",
+    "posted_at": "2026-09-29",
+    "slides": [
+      "images/hq/Dd4LR-_E-sY-1.jpg",
+      "images/hq/Dd4LR-_E-sY-2.jpg"
+    ]
   }
 ]
