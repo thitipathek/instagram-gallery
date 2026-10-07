@@ -1160,9 +1160,13 @@
     "summary": "Educational XAUUSD (gold) trade using a simple inducement (IDM) setup at the Asia-session high, explained with market structure, liquidity and order-block concepts.",
     "likes": 613,
     "source": "explore",
-    "image": null,
+    "image": "images/hq/DeHsEW6DdBM-1.jpg",
     "posted_at": "2026-10-05",
-    "slides": null
+    "slides": [
+      "images/hq/DeHsEW6DdBM-1.jpg",
+      "images/hq/DeHsEW6DdBM-2.jpg",
+      "images/hq/DeHsEW6DdBM-3.jpg"
+    ]
   },
   {
     "handle": "mbahforexx",
