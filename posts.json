@@ -351,7 +351,7 @@
       "goldstrategy"
     ],
     "duration_sec": 19.3,
-    "lang": "it"
+    "lang": null
   },
   {
     "handle": "tradelikeosman",
@@ -399,7 +399,7 @@
       "forexmindset"
     ],
     "duration_sec": 5.0,
-    "lang": "de"
+    "lang": "en"
   },
   {
     "handle": "dekoda.trades",
@@ -844,7 +844,7 @@
       "daytrading"
     ],
     "duration_sec": 15.2,
-    "lang": null
+    "lang": "en"
   },
   {
     "handle": "andreacimi.trading",
