@@ -445,7 +445,7 @@
       "stockmarket"
     ],
     "duration_sec": 9.1,
-    "lang": "en"
+    "lang": null
   },
   {
     "handle": "fx.wota",
@@ -844,7 +844,7 @@
       "daytrading"
     ],
     "duration_sec": 15.2,
-    "lang": "en"
+    "lang": null
   },
   {
     "handle": "andreacimi.trading",
@@ -1095,7 +1095,7 @@
       "explore"
     ],
     "duration_sec": 13.7,
-    "lang": "fr"
+    "lang": null
   },
   {
     "handle": "race_charts",
@@ -1245,7 +1245,7 @@
       "gold"
     ],
     "duration_sec": 7.0,
-    "lang": "tl"
+    "lang": null
   },
   {
     "handle": "shuhratov_fx",
@@ -1269,7 +1269,7 @@
       "forex"
     ],
     "duration_sec": 11.1,
-    "lang": "en"
+    "lang": null
   },
   {
     "handle": "tycoontraders_in",
