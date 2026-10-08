@@ -1414,5 +1414,55 @@
       "images/hq/Dd4LR-_E-sY-1.jpg",
       "images/hq/Dd4LR-_E-sY-2.jpg"
     ]
+  },
+  {
+    "handle": "wicha.nokhong",
+    "url": "https://www.instagram.com/p/Ddq_4IalSxw/",
+    "topic": "mindset",
+    "summary": "For people who work hard and feel too tired to read, the post shows a way to take back time for reading books.",
+    "likes": 6000,
+    "source": "explore",
+    "image": "images/hq/Ddq_4IalSxw-1.jpg",
+    "posted_at": "2026-09-24",
+    "slides": [
+      "images/hq/Ddq_4IalSxw-1.jpg",
+      "images/hq/Ddq_4IalSxw-2.jpg",
+      "images/hq/Ddq_4IalSxw-3.jpg",
+      "images/hq/Ddq_4IalSxw-4.jpg",
+      "images/hq/Ddq_4IalSxw-5.jpg",
+      "images/hq/Ddq_4IalSxw-6.jpg",
+      "images/hq/Ddq_4IalSxw-7.jpg",
+      "images/hq/Ddq_4IalSxw-8.jpg",
+      "images/hq/Ddq_4IalSxw-9.jpg",
+      "images/hq/Ddq_4IalSxw-10.jpg"
+    ]
+  },
+  {
+    "handle": "long.longthun",
+    "url": "https://www.instagram.com/p/Ddon8xlGXPO/",
+    "topic": "investing",
+    "summary": "US tech stocks, gold and Bitcoin all sold off together as the 10-year bond yield rose above 5% and the dollar got stronger; about $230M in crypto long positions were wiped out within an hour.",
+    "likes": null,
+    "source": "explore",
+    "image": "images/hq/Ddon8xlGXPO-1.jpg",
+    "posted_at": "2026-09-23",
+    "slides": [
+      "images/hq/Ddon8xlGXPO-1.jpg"
+    ]
+  },
+  {
+    "handle": "greatwall_fx",
+    "url": "https://www.instagram.com/p/DeMoBE_Eq7H/",
+    "topic": "trading",
+    "summary": "An alert that traders are waiting for the US CPI release on Oct 14, 2026 as a key inflation signal, listing forecasts against the previous figures.",
+    "likes": null,
+    "source": "explore",
+    "image": "images/hq/DeMoBE_Eq7H-1.jpg",
+    "posted_at": "2026-10-07",
+    "slides": [
+      "images/hq/DeMoBE_Eq7H-1.jpg",
+      "images/hq/DeMoBE_Eq7H-2.jpg",
+      "images/hq/DeMoBE_Eq7H-3.jpg"
+    ]
   }
 ]
